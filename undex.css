@@ -1,0 +1,296 @@
+.size1 {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 225, 188, .5);
+    color: #000000;
+    font-size: 14px;
+    padding: 50px;
+
+}
+@media (min-width: 768px){
+
+    .container, .container-md, .container-sm {
+        max-width: 80%;
+    }}
+
+.
+.container{
+
+
+
+}
+.container1{
+    margin-bottom: 20px;
+}
+.frame{
+
+}
+.navbar {
+    height: 150px;
+}
+.navbar-brand {
+    display: flex;
+}
+.navbar-brand h4{
+
+    color: red;
+
+}
+.navbar-brand img {
+    max-width: 150px;
+}
+
+.menu {
+    justify-content: flex-end;
+    font-size: 22px;
+}
+.size2{
+    padding: 17px;
+    margin-left: 11%;
+
+    width: 78%;
+
+    background-color: beige;
+
+}
+.sub{
+    color: slategrey;
+    font-weight: 35;
+}
+.sub1 h5{
+    font-weight: 10;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.3);
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0,0,0,.6);
+}
+
+button.btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+
+button.btn-dark {
+    background-color: #000000;
+}
+.serv_right{
+    display: flex;
+
+
+}
+.serv_right2 h4{
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.serv_right h4{
+
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.text_serv_right h5 {
+
+    text-align: justify;
+
+    color: slategrey;
+
+}
+.text_serv_right h6{
+    text-align: justify;
+
+
+}
+.serv_medio{
+    display: flex;
+}
+.serv_medio h4{
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.serv_left{
+
+    display: flex;
+
+
+}
+.serv_left h4{
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.serv_right2{
+    display: flex;
+}
+.serv_right2 h4{
+
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.serv_medio2{
+    display: flex;
+}
+.serv_medio2 h4{
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.serv_left2{
+    display: flex;
+}
+.serv_left2 h4{
+    padding: 5px;
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.size3{
+    padding: 17px;
+    margin-left: 11%;
+
+    width: 78%;
+
+    background-color:#272626;
+}
+.sub_size3_text{
+    font-weight: 700;
+    color:   lightslategray;
+}
+.sub1_size3_text1 h5{
+    padding-top: 20px;
+    color:   lightslategray;
+    font-weight: 10;
+    margin-bottom: 20px;
+}
+.control1{
+    border-color: green;
+}
+container4_imagenes{
+    padding-top: 20px;
+}
+.sing{
+    width: 80%;
+}
+.sign_ima {
+
+    padding-top: 20px;
+}
+.size4{
+    padding: 17px;
+    margin-left: 11%;
+    /* margin-right: 8000px; */
+    width: 78%;
+
+
+    background-color: #f2f2f2;
+
+}
+.sub_size4 h2{
+    font-weight: 700;
+    color: slategrey;
+}
+.sub_size4_text h5{
+    text-align: justify;
+    color: slategrey;
+    font-weight: 10;
+    margin-bottom: 30px;
+
+}
+.sub1_size4_ima{
+    border-color: green;
+
+}
+
+.sub1_size4_text h5{
+    margin-top: 20px;
+    color: slategrey;
+    padding: 5px;
+    text-align: left;
+}
+.sub1_size4_text h6{
+    font-weight: 10;
+    color: slategrey;
+    padding: 10px;
+    text-align: justify;
+}
+.sub1_size4_text h4{
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+
+sub1_size4_ima img{
+    margin: 30px;
+
+}
+.contac{
+    padding: 17px;
+    margin-left: 11%;
+    width: 78%;
+    background-color: lightcoral;
+    margin-bottom: 50px;
+}
+.sub_contac_finally h2{
+    padding-top: 20px;
+    color: white;
+}
+.sub1_contac_finally h6{
+    color: white;
+    padding-top: 20px;
+    text-align: left;
+    font-weight: 10;
+}
+.form-control{
+
+    border-color:lightcoral ;
+    background-color: lightcoral;
+    background-color: rgba(0,0,0,0.1);
+}
+
+.finally_left{
+    color: white;
+}
+
+.finally_right{
+    color: white;
+}
+.sub1_finally_right h3{
+    padding: 15px;
+    color: white;
+}
+.sub2_finally_right h6{
+    font-weight: 10;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-align: justify;
+}
+.icon{
+    padding: 10px;
+}
+.icon_right_2 h6{
+    padding-top: 5px;
+    color: white;
+    font-weight: 40;
+}
+.icon_right h4{
+
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+
+
+
+}
+.navbar{
+    background-color: #272626;
+}
+.nav-link a{
+    color: #f2f2f2;
+}
